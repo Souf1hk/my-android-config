@@ -9,7 +9,7 @@
   "unity_game_id": "5234567",
   "unity_banner": "unity_banner",
   "unity_interstitial": "unity_interstitial",
-  "unity_test_mode": true
+  "unity_test_mode": true,
   "unity_ads": true,
-  "applovin" : true
+  "applovin" : false
 }
