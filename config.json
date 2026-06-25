@@ -10,4 +10,6 @@
   "unity_banner": "unity_banner",
   "unity_interstitial": "unity_interstitial",
   "unity_test_mode": true
+  "unity_ads": true,
+  "applovin" : true
 }
