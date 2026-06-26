@@ -8,7 +8,7 @@
   "max_appopen": "26f0f50536437d0b",
   "unity_game_id": "6143543",
   "unity_banner": "Banner_Android",
-  "unity_interstitial": "Interstitial_Android",
+  "unity_interstitial": "video",
   "unity_test_mode": true,
   "unity_ads": true,
   "applovin" : false
