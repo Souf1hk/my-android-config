@@ -11,5 +11,9 @@
   "unity_interstitial": "interstitial",
   "unity_test_mode": true,
   "unity_ads": true,
-  "applovin" : false
+  "applovin": false,
+  "FacebookAds": false,
+  "facebook_banner": "YOUR_FB_BANNER_PLACEMENT_ID",
+  "facebook_interstitial": "YOUR_FB_INTERSTITIAL_PLACEMENT_ID",
+  "facebook_native": "YOUR_FB_NATIVE_PLACEMENT_ID"
 }
