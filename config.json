@@ -1,19 +1,7 @@
 {
   "adsStatus": "on",
-  "newAppStatus": "off",
-  "newPackageName": "com.castlev2.movie.app",
-  "max_banner": "03ec8d756ece2c88",
-  "max_interstitial": "4cf2ad4adc26db20",
-  "max_native": "f4fd1bcbd7180b5a",
-  "max_appopen": "26f0f50536437d0b",
   "unity_game_id": "6143543",
   "unity_banner": "banner",
   "unity_interstitial": "interstitial",
-  "unity_test_mode": true,
-  "unity_ads": false,
-  "applovin": false,
-  "FacebookAds": true,
-  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  "unity_test_mode": true
 }
