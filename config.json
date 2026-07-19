@@ -3,5 +3,9 @@
   "unity_game_id": "6143543",
   "unity_banner": "banner",
   "unity_interstitial": "interstitial",
-  "unity_test_mode": true
+  "unity_test_mode": true,
+  "unity": true,
+  "facebook": false,
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
